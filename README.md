@@ -18,11 +18,13 @@ computes the inference can prove things like:
 ## AI ORACLE ARCHITECTURE
 
 ![App Screenshot](https://github.com/MuraliB123/hackserver/blob/main/ORA.png)
-   source     (https://docs.ora.io/doc/cle/ai-oracle)
+[source](https://docs.ora.io/doc/cle/ai-oracle)
+
+                                                                                                                                                                     
 
 
 ## WORKFLOW
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/MuraliB123/hackserver/blob/main/workflow.png)
 
 ## FURTHER WORKS
 Elevating zkoracle to handle real time data onchain.
