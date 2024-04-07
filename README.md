@@ -5,12 +5,10 @@
 
 
 ## PROBLEM STATEMENT
-Analyzing credit worthiness of the
-customer.
-Analyzing the risk involved in policy
-issuance to the customer.             
-High volume of data has to be obtained to
-perform above two analysis.
+- Analyzing credit worthiness of the customer.
+- Analyzing the risk involved in policy issuance to the customer.
+- High volume of data has to be obtained to perform above two analysis.
+
 ## ZERO KNOWLEDGE MACHINE LEARNING
 With Zero Knowledge Machine Learning the party that
 computes the inference can prove things like:  
@@ -26,6 +24,6 @@ computes the inference can prove things like:
 ![App Screenshot](https://github.com/MuraliB123/hackserver/blob/main/workflow.png)
 
 ## FURTHER WORKS
-Elevating zkoracle to handle real time data onchain.
-Bringing more models onchain using opML.
-For more reference visit the documentation [ora](https://docs.ora.io/doc/cle/ai-oracle)
+- Elevating zkoracle to handle real time data onchain.
+- Bringing more models onchain using opML.
+- For more reference visit the documentation [ora](https://docs.ora.io/doc/cle/ai-oracle)
