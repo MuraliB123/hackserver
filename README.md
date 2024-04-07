@@ -17,7 +17,7 @@ computes the inference can prove things like:
 “I ran X input on Y model to generate Z output”
 ## AI ORACLE ARCHITECTURE
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/MuraliB123/hackserver/ORA.png)
    source     (https://docs.ora.io/doc/cle/ai-oracle)
 
 
